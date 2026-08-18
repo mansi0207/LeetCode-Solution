@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mansi0207/LeetCode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
