@@ -43,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [3941-password-strength](https://github.com/mansi0207/LeetCode-Solution/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/mansi0207/LeetCode-Solution/tree/master/2706-buy-two-chocolates) |
+## Hash Table
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/mansi0207/LeetCode-Solution/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->
