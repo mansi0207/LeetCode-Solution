@@ -15,7 +15,7 @@ class Solution {
             int diff = nums[j] - nums[i];
             if(diff == k){
                 count++;
-
+        
                 int l = nums[i];
                 int r = nums[j];
 
