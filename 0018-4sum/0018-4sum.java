@@ -25,13 +25,7 @@ class Solution {
 
                     if (sum == target) {
 
-                        result.add(Arrays.asList(
-                            nums[i],
-                            nums[j],
-                            nums[left],
-                            nums[right]
-                        ));
-
+                        result.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
                         left++;
                         right--;
 
