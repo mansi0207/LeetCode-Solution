@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
+| [0867-transpose-matrix](https://github.com/mansi0207/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0962-maximum-width-ramp](https://github.com/mansi0207/LeetCode-Solution/tree/master/0962-maximum-width-ramp) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mansi0207/LeetCode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/mansi0207/LeetCode-Solution/tree/master/0962-maximum-width-ramp) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mansi0207/LeetCode-Solution/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mansi0207/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
