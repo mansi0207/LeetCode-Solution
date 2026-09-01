@@ -6,7 +6,7 @@ class Solution {
             arr[i][1] = i;       
         }
 
-        Arrays.sort(arr, (a, b) -> a[0] - b[0]);
+        Arrays.sort(arr, (a, b) -> Integer.compare(a[0],b[0]));
 
         int left = 0;
         int right = arr.length - 1;
