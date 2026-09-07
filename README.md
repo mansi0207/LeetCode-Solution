@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/mansi0207/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/mansi0207/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansi0207/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mansi0207/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mansi0207/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/mansi0207/LeetCode-Solution/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mansi0207/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
