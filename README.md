@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mansi0207/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/mansi0207/LeetCode-Solution/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
