@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/mansi0207/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [3941-password-strength](https://github.com/mansi0207/LeetCode-Solution/tree/master/3941-password-strength) |
 ## Sorting
