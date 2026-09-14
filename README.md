@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/mansi0207/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,8 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mansi0207/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/mansi0207/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/mansi0207/LeetCode-Solution/tree/master/0196-delete-duplicate-emails) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mansi0207/LeetCode-Solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
