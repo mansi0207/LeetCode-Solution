@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/mansi0207/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Sliding Window
