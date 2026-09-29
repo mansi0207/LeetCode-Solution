@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/mansi0207/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/mansi0207/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0962-maximum-width-ramp](https://github.com/mansi0207/LeetCode-Solution/tree/master/0962-maximum-width-ramp) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mansi0207/LeetCode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/mansi0207/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
