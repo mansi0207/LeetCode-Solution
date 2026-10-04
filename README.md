@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/mansi0207/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/mansi0207/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mansi0207/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mansi0207/LeetCode-Solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/mansi0207/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3941-password-strength](https://github.com/mansi0207/LeetCode-Solution/tree/master/3941-password-strength) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/mansi0207/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/mansi0207/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mansi0207/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mansi0207/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
