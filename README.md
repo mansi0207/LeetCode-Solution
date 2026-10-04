@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansi0207/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/mansi0207/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3941-password-strength](https://github.com/mansi0207/LeetCode-Solution/tree/master/3941-password-strength) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mansi0207/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mansi0207/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mansi0207/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
