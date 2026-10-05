@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/mansi0207/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/mansi0207/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/mansi0207/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [0962-maximum-width-ramp](https://github.com/mansi0207/LeetCode-Solution/tree/master/0962-maximum-width-ramp) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansi0207/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0697-degree-of-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0697-degree-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3941-password-strength](https://github.com/mansi0207/LeetCode-Solution/tree/master/3941-password-strength) |
 ## Math
