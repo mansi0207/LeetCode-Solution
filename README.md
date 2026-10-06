@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mansi0207/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mansi0207/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mansi0207/LeetCode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2706-buy-two-chocolates](https://github.com/mansi0207/LeetCode-Solution/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mansi0207/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansi0207/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mansi0207/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mansi0207/LeetCode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mansi0207/LeetCode-Solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mansi0207/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/mansi0207/LeetCode-Solution/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mansi0207/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
