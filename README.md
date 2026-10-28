@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mansi0207/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/mansi0207/LeetCode-Solution/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/mansi0207/LeetCode-Solution/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansi0207/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mansi0207/LeetCode-Solution/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/mansi0207/LeetCode-Solution/tree/master/0086-partition-list) |
 ## Binary Search Tree
 |  |
 | ------- |
