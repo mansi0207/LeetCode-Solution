@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/mansi0207/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansi0207/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mansi0207/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mansi0207/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [0962-maximum-width-ramp](https://github.com/mansi0207/LeetCode-Solution/tree/master/0962-maximum-width-ramp) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mansi0207/LeetCode-Solution/tree/master/0018-4sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/mansi0207/LeetCode-Solution/tree/master/0611-valid-triangle-number) |
 | [2706-buy-two-chocolates](https://github.com/mansi0207/LeetCode-Solution/tree/master/2706-buy-two-chocolates) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mansi0207/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/mansi0207/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mansi0207/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mansi0207/LeetCode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/mansi0207/LeetCode-Solution/tree/master/0697-degree-of-an-array) |
